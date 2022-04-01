@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
+//#include <conio.h>
 
 int compare_max_two_value(int a, int b);
 
@@ -25,7 +25,7 @@ void main() {
 	
 	output(max);
 	
-	getch();
+//	getch();
 }
 
 int compare_max_two_value(int a, int b) {
